@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbcntun2xafcr"]
+
+[ext_resource type="Script" path="res://rich_text_label.gd" id="1_4o0gg"]
+
+[node name="RichTextLabel" type="RichTextLabel"]
+offset_right = 1147.0
+offset_bottom = 644.0
+script = ExtResource("1_4o0gg")
